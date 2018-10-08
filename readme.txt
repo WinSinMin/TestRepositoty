@@ -4,3 +4,4 @@ Git is so good.
 Git change one.
 Git change two.
 Git change three.
+Git lose.
